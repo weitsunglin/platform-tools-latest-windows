@@ -62,4 +62,4 @@ adb shell pm uninstall --user 0 com.android.nfc
 
 ＃ 備註
 1. 官網也有載點: https://developer.android.com/tools/releases/platform-tools?hl=zh-tw
-2. 切記不要uninstall的特定系統app，像我的同事 Ted 給我uninstall NFC 功能的指令，直接把我手機的NFC整沒了
+2. 切記 uninstall 前要先看過 ，像我的同事 Ted 給我uninstall NFC 功能的指令，直接把我手機的NFC整沒了
